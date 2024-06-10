@@ -1,0 +1,9 @@
+NOTICE
+
+This project includes code from the OpenAI Node library, which is licensed under the Apache License 2.0.
+
+---
+
+Portions of this software are derived from the OpenAI Node library (https://github.com/openai/openai-node) which is licensed under the Apache License 2.0.
+
+The specific file incorporated is `examples/tool-call-helpers-zod.ts`.

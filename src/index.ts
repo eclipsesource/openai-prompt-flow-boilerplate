@@ -9,6 +9,12 @@ dotenv.config();
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
+/*
+ * Below is a copy of the OpenAI nodejs example at
+ * https://github.com/openai/openai-node/blob/master/examples/tool-call-helpers-zod.ts
+ * which has been published under the Apache 2.0 license.
+ */
+
 // Define your functions, alongside zod schemas.
 
 const ListParams = z.object({
