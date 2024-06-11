@@ -30,6 +30,6 @@ npm run build
 
 This project comes with a pre-configured debug configuration in the [`.vscode/launch.json`](.vscode/launch.json) file. This allows you to start a debugging session right from your Visual Studio Code.
 
-Before launching the debugger, make sure you have built the project using `npm run build`. The debugger will launch the program defined in `${workspaceFolder}/src/index.ts`.
+Before launching the debugger, make sure you have installed the dependencies using `npm install`. The debugger will launch the program defined in `${workspaceFolder}/src/index.ts`.
 
 The `preLaunchTask` named "Build" refers to a task defined in the [`.vscode/tasks.json`](.vscode/tasks.json) file, which runs the `build` script before launching the debugger.
