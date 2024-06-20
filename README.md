@@ -1,4 +1,4 @@
-# OpenAI Prompt Flow Boilerplate (Node.js)
+# OpenAI Prompt Flow Boilerplate (Node.js) [![Aim - PoC](https://img.shields.io/badge/Aim-PoC-a45b2e)](https://github.com/eclipsesource/.github/blob/main/repository-classification.md) [![Project - Maintenance](https://img.shields.io/badge/Project-Maintenance-872ea4)](https://github.com/eclipsesource/.github/blob/main/repository-classification.md)
 
 This repository serves as a basic Node.js boilerplate for experimenting with or starting to implement a prompt flow using OpenAI. It's a great starting point for developers looking to test and automate certain tasks using OpenAI's language models.
 
